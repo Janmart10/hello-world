@@ -1,0 +1,8 @@
+prefix=/home/janmart/carla-ros-bridge/catkin_ws/devel
+
+Name: learning_jo
+Description: Description of learning_jo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/janmart/carla-ros-bridge/catkin_ws/devel/lib 
+Requires: 

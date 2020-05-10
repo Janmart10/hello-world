@@ -1,0 +1,8 @@
+prefix=/home/janmart/carla-ros-bridge/catkin_ws/install
+
+Name: carla_packages
+Description: Description of carla_packages
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/janmart/carla-ros-bridge/catkin_ws/install/lib 
+Requires: 
